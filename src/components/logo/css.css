@@ -1,0 +1,10 @@
+.photo {
+    height: 200px;
+    width: 200px;
+  }
+
+.container{
+  background-image: url(./logobackground.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
